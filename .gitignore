@@ -4,6 +4,7 @@
 ### Custom ###
 patterns.*.json
 !patterns.example.json
+test/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files

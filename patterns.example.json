@@ -1,0 +1,9 @@
+{
+    "<PatternName>": {
+        "match": "<RegexPattern:Str>",
+        "effort": "<EffortInMinutesToSolve:Int>",
+        "description": "<DescriptionOfThePattern:Str>",
+        "solution": "<SolutionToThePattern:Str>",
+        "solvable": "<IsPatternSolvable:Bool>"
+    }
+}

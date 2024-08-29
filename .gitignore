@@ -5,6 +5,7 @@
 patterns.*.json
 !patterns.example.json
 test/
+result.csv
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -133,6 +134,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+venv2/
 ENV/
 env.bak/
 venv.bak/
